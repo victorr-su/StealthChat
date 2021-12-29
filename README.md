@@ -3,9 +3,10 @@ A Chat App created to talk to others and meet new people!
 
 Check out the app here: https://chatt-app-victorrsu.netlify.app/
 
-login credentials for guest users - 
+login credentials for guest users 
 
 Username: Guest
+
 Password: 1234
 
 ## Why did i build this?
