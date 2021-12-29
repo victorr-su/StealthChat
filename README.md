@@ -1,7 +1,7 @@
 # Chat-App
 A Chat App created to talk to others and meet new people!
 
-##check out the app here: https://chatt-app-victorrsu.netlify.app/
+## check out the app here: https://chatt-app-victorrsu.netlify.app/
 
 login credentials for guest users:
 Username: Guest
