@@ -1,4 +1,4 @@
-# Chat-App
+# Anonymous Chat-App
 A Chat App created to talk to others and meet new people!
 
 Check out the app here: https://chatt-app-victorrsu.netlify.app/
