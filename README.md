@@ -5,7 +5,7 @@ Check out the app here: https://chatt-app-victorrsu.netlify.app/
 
 login credentials for guest users 
 
-Username: Guest
+Username: Anon1
 
 Password: 1234
 
