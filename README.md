@@ -21,4 +21,3 @@ this project idea an an opportunity for me to learn more about reach while build
 
 ## What technolgoies were used?
 - Javascript, HTML, CSS, React, and Chat engine API
-- Majority of styles from : https://gist.github.com/adrianhajdin/c3a3195dd091359f3402a572961abb98
