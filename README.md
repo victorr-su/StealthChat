@@ -8,6 +8,8 @@ login credentials for guest users
 Username: Anon1
 
 Password: 1234
+![image](https://user-images.githubusercontent.com/70664921/149266410-632d5582-da78-4a07-8322-05f4ae21440f.png)
+
 
 ## Why did i build this?
 - Ever since I started dabbling in front-end web development, I've always wanted to try and start utilizing 
